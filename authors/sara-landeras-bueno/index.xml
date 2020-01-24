@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Landeras-Bueno | Juan Díaz-Colunga</title>
+    <link>https://jdiazc9.github.io/authors/sara-landeras-bueno/</link>
+      <atom:link href="https://jdiazc9.github.io/authors/sara-landeras-bueno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Landeras-Bueno</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Juan Díaz-Colunga</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sara Landeras-Bueno</title>
+      <link>https://jdiazc9.github.io/authors/sara-landeras-bueno/</link>
+    </image>
+    
+    <item>
+      <title>Epigenetic control of influenza virus: role of H3K79 methylation in interferon-induced antiviral response</title>
+      <link>https://jdiazc9.github.io/publication/marcos-villar-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/publication/marcos-villar-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://jdiazc9.github.io/authors/</link>
       <atom:link href="https://jdiazc9.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Juan Díaz-Colunga</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Juan Díaz-Colunga</copyright><lastBuildDate>Thu, 23 Jan 2020 02:29:45 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://jdiazc9.github.io/authors/admin/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Jan 2020 02:29:45 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Biological systems are complex. We do have a fair amount of information on the individual components that build them up, from the molecules in a cell to the species in an ecosystem, yet it remains unclear how their assembly results in emergent behaviors. Novel technologies have made it possible to easily retrieve large amounts of data, but there is a long way from there to unveiling the first principles of life.&lt;/p&gt;
 &lt;p&gt;My research focuses on communities of cells that have either &lt;em&gt;genetic&lt;/em&gt; differences (e.g. bacterial colonies where various species coexist), &lt;em&gt;phenotypic&lt;/em&gt; differences (e.g. tissues where all cells have the same DNA sequence but still display variability in size, morphology or activity), or both. Their composition, as well as the interactions between their individuals, determine their properties. Is it possible to understand, predict and ultimately act on how these communities assemble and evolve?&lt;/p&gt;
@@ -136,7 +136,7 @@
     </item>
     
     <item>
-      <title>Juan Díaz-Colunga</title>
+      <title>Juan Díaz-Colunga*</title>
       <link>https://jdiazc9.github.io/authors/juan-diaz-colunga/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/juan-diaz-colunga/</guid>

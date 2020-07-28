@@ -5,12 +5,20 @@
     <link>https://jdiazc9.github.io/publication_types/2/</link>
       <atom:link href="https://jdiazc9.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Juan Díaz-Colunga</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Juan Díaz-Colunga</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://jdiazc9.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Top-down engineering of complex communities by directed evolution</title>
+      <link>https://jdiazc9.github.io/publication/chang-2020-07-24-214775/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/publication/chang-2020-07-24-214775/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Osmotic modulation of chromatin impacts on efficiency and kinetics of cell fate modulation</title>
@@ -41,6 +49,14 @@
       <link>https://jdiazc9.github.io/publication/guantes-2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/publication/guantes-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondria and the non-genetic origins of cell-to-cell variability: More is different</title>
+      <link>https://jdiazc9.github.io/publication/guantes-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/publication/guantes-2015-b/</guid>
       <description></description>
     </item>
     

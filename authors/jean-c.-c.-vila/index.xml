@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chang-Yu Chang | Juan Díaz-Colunga</title>
-    <link>https://jdiazc9.github.io/authors/chang-yu-chang/</link>
-      <atom:link href="https://jdiazc9.github.io/authors/chang-yu-chang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chang-Yu Chang</description>
+    <title>Jean C. C. Vila | Juan Díaz-Colunga</title>
+    <link>https://jdiazc9.github.io/authors/jean-c.-c.-vila/</link>
+      <atom:link href="https://jdiazc9.github.io/authors/jean-c.-c.-vila/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean C. C. Vila</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Juan Díaz-Colunga</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Chang-Yu Chang</title>
-      <link>https://jdiazc9.github.io/authors/chang-yu-chang/</link>
+      <title>Jean C. C. Vila</title>
+      <link>https://jdiazc9.github.io/authors/jean-c.-c.-vila/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jdiazc9.github.io/publication/sanchez-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/publication/sanchez-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Top-down engineering of complex communities by directed evolution</title>
-      <link>https://jdiazc9.github.io/publication/chang-2020-07-24-214775/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/publication/chang-2020-07-24-214775/</guid>
       <description></description>
     </item>
     

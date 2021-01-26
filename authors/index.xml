@@ -5,7 +5,7 @@
     <link>https://jdiazc9.github.io/authors/</link>
       <atom:link href="https://jdiazc9.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Juan Díaz-Colunga</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Juan Díaz-Colunga</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Juan Díaz-Colunga</title>
+      <title>Juan Diaz-Colunga</title>
       <link>https://jdiazc9.github.io/authors/juan-diaz-colunga/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/juan-diaz-colunga/</guid>
@@ -65,9 +65,9 @@
       <link>https://jdiazc9.github.io/authors/admin/</link>
       <pubDate>Thu, 23 Jan 2020 02:29:45 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Biological systems are complex. We have a fair amount of information about the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how they assemble to produce emergent behaviors.&lt;/p&gt;
+      <description>&lt;p&gt;Biological systems are complex. We have a fair amount of information about the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how these assemble to produce emergent behaviors.&lt;/p&gt;
 &lt;p&gt;My research focuses on communities of cells that are different at the &lt;em&gt;genotypic&lt;/em&gt; level (e.g. cancer cells carrying different mutations, bacterial colonies where multiple species coexist&amp;hellip;) or at the &lt;em&gt;phenotypic&lt;/em&gt; level only (e.g. cells that display differences in size, morphology or activity despite carrying identical DNA sequences). The composition of these communities and the interactions of their individuals determine their properties. Can we understand, predict and ultimately act on how these communities assemble and evolve?&lt;/p&gt;
-&lt;p&gt;To address these questions, I use mathematical modeling, computer simulations and data analyses that complement the experimental skills that I (slowly but steadily!) keep developing. I am currently a Postdoctoral Researcher at the Universidad Autónoma de Madrid, where I work with professor &lt;a href=&#34;https://www.ligarto.org/rdiaz/&#34;&gt;Ramón Díaz-Uriarte&lt;/a&gt; on cancer evolution. Soon I will be joining the &lt;a href=&#34;http://www.sanchezlaboratory.com/&#34;&gt;Sanchez Laboratory&lt;/a&gt; at Yale. Stay tuned!&lt;/p&gt;
+&lt;p&gt;To address these questions, I use a mixed experimental and theoretical approach &amp;mdash;including mathematical modeling, computer simulations and data analysis. I am currently a Postdoctoral Associate at Yale University, where I work with the amazing people at the &lt;a href=&#34;http://www.sanchezlaboratory.com/&#34;&gt;Sanchez Laboratory&lt;/a&gt; trying to understand and exploit the priciples of microbial community assembly and function.&lt;/p&gt;
 </description>
     </item>
     

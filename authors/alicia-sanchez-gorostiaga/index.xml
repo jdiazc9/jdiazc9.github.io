@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alicia Sanchez-Gorostiaga | Juan Díaz-Colunga</title>
+    <link>https://jdiazc9.github.io/authors/alicia-sanchez-gorostiaga/</link>
+      <atom:link href="https://jdiazc9.github.io/authors/alicia-sanchez-gorostiaga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alicia Sanchez-Gorostiaga</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Juan Díaz-Colunga</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alicia Sanchez-Gorostiaga</title>
+      <link>https://jdiazc9.github.io/authors/alicia-sanchez-gorostiaga/</link>
+    </image>
+    
+    <item>
+      <title>Top-down and bottom-up cohesiveness in microbial community coalescence</title>
+      <link>https://jdiazc9.github.io/publication/diaz-colunga-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/publication/diaz-colunga-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

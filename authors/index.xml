@@ -5,7 +5,7 @@
     <link>https://jdiazc9.github.io/authors/</link>
       <atom:link href="https://jdiazc9.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Juan Díaz-Colunga</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Juan Díaz-Colunga</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -13,18 +13,66 @@
     </image>
     
     <item>
-      <title>Alvaro Sanchez</title>
-      <link>https://jdiazc9.github.io/authors/alvaro-sanchez/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/authors/alvaro-sanchez/</guid>
+      <title>Alicia Sanchez-Gorostiaga</title>
+      <link>https://jdiazc9.github.io/authors/alicia-sanchez-gorostiaga/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/alicia-sanchez-gorostiaga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chang-Yu Chang</title>
       <link>https://jdiazc9.github.io/authors/chang-yu-chang/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/chang-yu-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helen S. Cai</title>
+      <link>https://jdiazc9.github.io/authors/helen-s.-cai/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/helen-s.-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua E. Goldford</title>
+      <link>https://jdiazc9.github.io/authors/joshua-e.-goldford/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/joshua-e.-goldford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Diaz-Colunga</title>
+      <link>https://jdiazc9.github.io/authors/juan-diaz-colunga/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/juan-diaz-colunga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikhail Tikhonov</title>
+      <link>https://jdiazc9.github.io/authors/mikhail-tikhonov/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/mikhail-tikhonov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanxi Lu</title>
+      <link>https://jdiazc9.github.io/authors/nanxi-lu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/nanxi-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Álvaro Sánchez</title>
+      <link>https://jdiazc9.github.io/authors/alvaro-sanchez/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/alvaro-sanchez/</guid>
       <description></description>
     </item>
     
@@ -33,14 +81,6 @@
       <link>https://jdiazc9.github.io/authors/jean-c.-c.-vila/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/jean-c.-c.-vila/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Diaz-Colunga</title>
-      <link>https://jdiazc9.github.io/authors/juan-diaz-colunga/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/authors/juan-diaz-colunga/</guid>
       <description></description>
     </item>
     

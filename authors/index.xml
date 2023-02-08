@@ -5,7 +5,7 @@
     <link>https://jdiazc9.github.io/authors/</link>
       <atom:link href="https://jdiazc9.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Juan Díaz-Colunga</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Juan Díaz-Colunga</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -25,6 +25,22 @@
       <link>https://jdiazc9.github.io/authors/alicia-sanchez-gorostiaga/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/alicia-sanchez-gorostiaga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Santos</title>
+      <link>https://jdiazc9.github.io/authors/antonio-santos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/antonio-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belen Benitez-Dominguez</title>
+      <link>https://jdiazc9.github.io/authors/belen-benitez-dominguez/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/belen-benitez-dominguez/</guid>
       <description></description>
     </item>
     
@@ -61,10 +77,42 @@
     </item>
     
     <item>
+      <title>Ignacio Belda</title>
+      <link>https://jdiazc9.github.io/authors/ignacio-belda/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/ignacio-belda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Ruiz</title>
+      <link>https://jdiazc9.github.io/authors/javier-ruiz/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/javier-ruiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Vicente</title>
+      <link>https://jdiazc9.github.io/authors/javier-vicente/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/javier-vicente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jean CC Vila</title>
       <link>https://jdiazc9.github.io/authors/jean-cc-vila/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/jean-cc-vila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Celestin Charles Vila</title>
+      <link>https://jdiazc9.github.io/authors/jean-celestin-charles-vila/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/jean-celestin-charles-vila/</guid>
       <description></description>
     </item>
     
@@ -89,6 +137,14 @@
       <link>https://jdiazc9.github.io/authors/karna-gowda/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/karna-gowda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel de Celis</title>
+      <link>https://jdiazc9.github.io/authors/miguel-de-celis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/miguel-de-celis/</guid>
       <description></description>
     </item>
     
@@ -173,7 +229,7 @@
     </item>
     
     <item>
-      <title>Maria Rebolleda-Gomez</title>
+      <title>María Rebolleda-Gomez</title>
       <link>https://jdiazc9.github.io/authors/maria-rebolleda-gomez/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/maria-rebolleda-gomez/</guid>
@@ -233,9 +289,8 @@
       <link>https://jdiazc9.github.io/authors/admin/</link>
       <pubDate>Thu, 23 Jan 2020 02:29:45 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Biological systems are complex. We have a fair amount of information about the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how these assemble to produce emergent behaviors.&lt;/p&gt;
-&lt;p&gt;My research focuses on communities of cells that are different at the &lt;em&gt;genotypic&lt;/em&gt; level (e.g. cancer cells carrying different mutations, bacterial colonies where multiple species coexist&amp;hellip;) or at the &lt;em&gt;phenotypic&lt;/em&gt; level only (e.g. cells that display differences in size, morphology or activity despite carrying identical DNA sequences). The composition of these communities and the interactions of their individuals determine their properties. Can we understand, predict and ultimately act on how these communities assemble and evolve?&lt;/p&gt;
-&lt;p&gt;To address these questions, I use a mixed experimental and theoretical approach including mathematical modeling, computer simulations and data analysis. I am currently a Postdoctoral Associate at Yale University, where I work with the amazing people at the &lt;a href=&#34;http://www.sanchezlaboratory.com/&#34;&gt;Sanchez Laboratory&lt;/a&gt; trying to understand and exploit the priciples of microbial community assembly.&lt;/p&gt;
+      <description>&lt;p&gt;I am currently a postdoctoral scientist at the &lt;a href=&#34;https://www.cnb.csic.es/index.php/en&#34;&gt;Spanish National Center for Biotechnology&lt;/a&gt; (CNB-CSIC), where I recently moved from the &lt;a href=&#34;https://https://eeb.yale.edu/&#34;&gt;Department of Ecology and Evolutionary Biology at Yale University&lt;/a&gt;. I am a part of the &lt;a href=&#34;https://sanchezlaboratory.weebly.com/&#34;&gt;Evolution of Community Function lab&lt;/a&gt; led by Alvaro Sanchez.&lt;/p&gt;
+&lt;p&gt;My work encompasses the interdisciplinary fields of ecology, evolutionary genetics, and systems biology, with a strong quantitative focus combining experimental, theoretical, and computational methods. Most recently, my focus has been &lt;strong&gt;predictively linking the species-level composition with the functions of ecological communities&lt;/strong&gt;. My aim is to understand how community-level functions emerge from the complex interactions between member species. Ultimately, my goal is to develop practical guidelines for the rational design of ecological communities that can optimize a wide variety of functions, from the degradation of environmental pollutants to the fertilization of agricultural soils.&lt;/p&gt;
 </description>
     </item>
     

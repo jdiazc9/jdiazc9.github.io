@@ -5,7 +5,7 @@
     <link>https://jdiazc9.github.io/authors/</link>
       <atom:link href="https://jdiazc9.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Juan Díaz-Colunga</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Juan Díaz-Colunga</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,8 +15,64 @@
     <item>
       <title>Abigail Skwara</title>
       <link>https://jdiazc9.github.io/authors/abigail-skwara/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/abigail-skwara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arjun S Raman</title>
+      <link>https://jdiazc9.github.io/authors/arjun-s-raman/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/arjun-s-raman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Diaz-Colunga</title>
+      <link>https://jdiazc9.github.io/authors/juan-diaz-colunga/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/juan-diaz-colunga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karna Gowda</title>
+      <link>https://jdiazc9.github.io/authors/karna-gowda/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/karna-gowda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahmoud Yousef</title>
+      <link>https://jdiazc9.github.io/authors/mahmoud-yousef/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/mahmoud-yousef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikhail Tikhonov</title>
+      <link>https://jdiazc9.github.io/authors/mikhail-tikhonov/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/mikhail-tikhonov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seppe Kuehn</title>
+      <link>https://jdiazc9.github.io/authors/seppe-kuehn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/seppe-kuehn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Álvaro Sánchez</title>
+      <link>https://jdiazc9.github.io/authors/alvaro-sanchez/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdiazc9.github.io/authors/alvaro-sanchez/</guid>
       <description></description>
     </item>
     
@@ -117,34 +173,10 @@
     </item>
     
     <item>
-      <title>Juan Diaz-Colunga</title>
-      <link>https://jdiazc9.github.io/authors/juan-diaz-colunga/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/authors/juan-diaz-colunga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Karna Gowda</title>
-      <link>https://jdiazc9.github.io/authors/karna-gowda/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/authors/karna-gowda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Miguel de Celis</title>
       <link>https://jdiazc9.github.io/authors/miguel-de-celis/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/miguel-de-celis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mikhail Tikhonov</title>
-      <link>https://jdiazc9.github.io/authors/mikhail-tikhonov/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/authors/mikhail-tikhonov/</guid>
       <description></description>
     </item>
     
@@ -165,26 +197,10 @@
     </item>
     
     <item>
-      <title>Seppe Kuehn</title>
-      <link>https://jdiazc9.github.io/authors/seppe-kuehn/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/authors/seppe-kuehn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sylvie Estrela</title>
       <link>https://jdiazc9.github.io/authors/sylvie-estrela/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/authors/sylvie-estrela/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Álvaro Sánchez</title>
-      <link>https://jdiazc9.github.io/authors/alvaro-sanchez/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/authors/alvaro-sanchez/</guid>
       <description></description>
     </item>
     

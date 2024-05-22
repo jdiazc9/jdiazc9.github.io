@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Magdalena San Roman | Juan Díaz-Colunga</title>
-    <link>https://jdiazc9.github.io/authors/magdalena-san-roman/</link>
-      <atom:link href="https://jdiazc9.github.io/authors/magdalena-san-roman/index.xml" rel="self" type="application/rss+xml" />
-    <description>Magdalena San Roman</description>
+    <title>Pablo Catalan | Juan Díaz-Colunga</title>
+    <link>https://jdiazc9.github.io/authors/pablo-catalan/</link>
+      <atom:link href="https://jdiazc9.github.io/authors/pablo-catalan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo Catalan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Juan Díaz-Colunga</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jdiazc9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Magdalena San Roman</title>
-      <link>https://jdiazc9.github.io/authors/magdalena-san-roman/</link>
+      <title>Pablo Catalan</title>
+      <link>https://jdiazc9.github.io/authors/pablo-catalan/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jdiazc9.github.io/publication/diaz-2024-full/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jdiazc9.github.io/publication/diaz-2024-full/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The optimization of microbial functions through rational environmental manipulations</title>
-      <link>https://jdiazc9.github.io/publication/sanchez-2024-optimization/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://jdiazc9.github.io/publication/sanchez-2024-optimization/</guid>
       <description></description>
     </item>
     
